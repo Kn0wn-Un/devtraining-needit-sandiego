@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table">
+    <sp_instance_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field/>
+        <field_list>process_name</field_list>
+        <filter table="x_58872_needit_process_dtl">process_group=7a536ff787c6511012a8a68d0ebb35c8^<item display_table="x_58872_needit_processtbl" display_value="Test 1" endquery="false" field="process_group" goto="false" newquery="false" operator="=" or="false" value="7a536ff787c6511012a8a68d0ebb35c8"/>
+        </filter>
+        <glyph/>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>1</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">48ea8ab0871a111012a8a68d0ebb356b</sp_column>
+        <sp_page/>
+        <sp_widget display_value="ProcessDataTbl">c0a3fda48756511012a8a68d0ebb3598</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-30 06:17:55</sys_created_on>
+        <sys_id>d7ea82f0871a111012a8a68d0ebb35cf</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Process Names</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sp_instance_table_d7ea82f0871a111012a8a68d0ebb35cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-30 06:18:56</sys_updated_on>
+        <table>x_58872_needit_process_dtl</table>
+        <title>Process Names</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"enable_filter": {
+		"value": "true",
+		"displayValue": "true"
+	}
+}]]></widget_parameters>
+    </sp_instance_table>
+    <sys_translated_text action="delete_multiple" query="documentkey=d7ea82f0871a111012a8a68d0ebb35cf"/>
+</record_update>

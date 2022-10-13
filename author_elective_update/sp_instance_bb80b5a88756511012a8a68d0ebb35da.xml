@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>5</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">7a17cc108752111012a8a68d0ebb3580</sp_column>
+        <sp_widget display_value="CAB Workbench - Form Widget">3e9d0792db1022004d27b31be0b8f5af</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-29 09:44:14</sys_created_on>
+        <sys_id>bb80b5a88756511012a8a68d0ebb35da</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sp_instance_bb80b5a88756511012a8a68d0ebb35da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-30 05:08:43</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=bb80b5a88756511012a8a68d0ebb35da"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>55e092eb1b9d85107d9d2f8dee4bcbfa</instance_id>
+        <instance_name>dev124228</instance_name>
+        <name>sp_instance_bb80b5a88756511012a8a68d0ebb35da</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>5</order><roles/><short_description/><size>md</size><sp_column display_value="1">7a17cc108752111012a8a68d0ebb3580</sp_column><sp_widget display_value="CAB Workbench - Form Widget">3e9d0792db1022004d27b31be0b8f5af</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-29 09:44:14</sys_created_on><sys_id>bb80b5a88756511012a8a68d0ebb35da</sys_id><sys_mod_count>9</sys_mod_count><sys_name/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sp_instance_bb80b5a88756511012a8a68d0ebb35da</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-30 05:08:43</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=bb80b5a88756511012a8a68d0ebb35da"/></record_update>]]></payload>
+        <payload_hash>-1678427455</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>e02f79ee87c6111012a8a68d0ebb3501</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-30 05:08:43</sys_created_on>
+        <sys_id>751b3d3487d6111012a8a68d0ebb356a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1838ccc01d40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-30 05:08:43</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>7d1b3d340fd61110c26d26c66441db69</update_guid>
+        <update_guid_history>7d1b3d340fd61110c26d26c66441db69:-1678427455,6ff9b9f0ebd61110e4a6c7bc3f0365cf:839804066,8d46b13017d61110ccdd0649b355d9ac:-1678427455,6026313013d6111087ec453c35897e58:98308320,0ca771605d965110fdabc3e56c0fe5ae:839804066,ef9771602a965110f7b3ff088c27187e:-1678427455,2a573d20f396511050b8ad5b1dcabfda:98308320,f8573d20039651104ada60396c51cc8a:-1678427455,3e66bdec135651108f41a9d3c22eba70:98308320,b380b5a868565110ae3656a8dc739cdc:839804066</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">690ef5f487d6111012a8a68d0ebb3595</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-30 05:21:32</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>1ea3c2374b8b4140858587ba5a23b900</sys_id>
+        <sys_metadata>bb80b5a88756511012a8a68d0ebb35da</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sp_instance_bb80b5a88756511012a8a68d0ebb35da</sys_update_name>
+        <sys_update_version display_value="sp_instance_bb80b5a88756511012a8a68d0ebb35da">751b3d3487d6111012a8a68d0ebb356a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-30 05:21:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="ProcessTbl" max_length="40" name="x_58872_needit_processtbl" sizeclass="2" type="collection">
+        <element attributes="ref_contributions=ProcessTest" label="Process Description" max_length="100" name="process_description" type="string"/>
+        <element display="true" label="Process Group" max_length="25" name="process_group" type="string"/>
+    </element>
+</database>

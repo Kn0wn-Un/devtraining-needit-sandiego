@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_list_control">
+    <sys_ui_list_control action="DELETE">
+        <columns_condition/>
+        <disable_nlq>false</disable_nlq>
+        <edit_condition/>
+        <edit_default_filter/>
+        <edit_roles/>
+        <empty_condition/>
+        <filter_condition/>
+        <filter_roles/>
+        <hierarchical_lists>false</hierarchical_lists>
+        <label>Reference List</label>
+        <link_condition/>
+        <link_roles/>
+        <list_edit_insert_row>true</list_edit_insert_row>
+        <list_edit_ref_qual_tag/>
+        <list_edit_type/>
+        <name>x_58872_needit_processtbl</name>
+        <new_condition/>
+        <new_roles/>
+        <omit_columns_if_empty>false</omit_columns_if_empty>
+        <omit_count>false</omit_count>
+        <omit_count_views>false</omit_count_views>
+        <omit_count_views_list/>
+        <omit_drilldown_link>false</omit_drilldown_link>
+        <omit_edit_button>false</omit_edit_button>
+        <omit_filters>false</omit_filters>
+        <omit_if_empty>false</omit_if_empty>
+        <omit_links>false</omit_links>
+        <omit_new_button>true</omit_new_button>
+        <related_list/>
+        <sys_class_name>sys_ui_list_control</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-27 10:17:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>37c4e37b87c6511012a8a68d0ebb35b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_processtbl</sys_name>
+        <sys_overrides display_value="">global</sys_overrides>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_list_control_37c4e37b87c6511012a8a68d0ebb35b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-27 10:17:20</sys_updated_on>
+    </sys_ui_list_control>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>55e092eb1b9d85107d9d2f8dee4bcbfa</instance_id>
+        <instance_name>dev124228</instance_name>
+        <name>sys_ui_list_control_37c4e37b87c6511012a8a68d0ebb35b3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_list_control"><sys_ui_list_control action="INSERT_OR_UPDATE"><columns_condition/><disable_nlq>false</disable_nlq><edit_condition/><edit_default_filter/><edit_roles/><empty_condition/><filter_condition/><filter_roles/><hierarchical_lists>false</hierarchical_lists><label>Reference List</label><link_condition/><link_roles/><list_edit_insert_row>true</list_edit_insert_row><list_edit_ref_qual_tag/><list_edit_type/><name>x_58872_needit_processtbl</name><new_condition/><new_roles/><omit_columns_if_empty>false</omit_columns_if_empty><omit_count>false</omit_count><omit_count_views>false</omit_count_views><omit_count_views_list/><omit_drilldown_link>false</omit_drilldown_link><omit_edit_button>false</omit_edit_button><omit_filters>false</omit_filters><omit_if_empty>false</omit_if_empty><omit_links>false</omit_links><omit_new_button>true</omit_new_button><related_list/><sys_class_name>sys_ui_list_control</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-27 10:17:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>37c4e37b87c6511012a8a68d0ebb35b3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit_processtbl</sys_name><sys_overrides display_value="">global</sys_overrides><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_list_control_37c4e37b87c6511012a8a68d0ebb35b3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-27 10:17:20</sys_updated_on></sys_ui_list_control></record_update>]]></payload>
+        <payload_hash>226125842</payload_hash>
+        <record_name>x_58872_needit_processtbl</record_name>
+        <reverted_from/>
+        <source>e02f79ee87c6111012a8a68d0ebb3501</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-27 10:17:20</sys_created_on>
+        <sys_id>4df4ef3b87c6511012a8a68d0ebb3571</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1837e737a9b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-27 10:17:20</sys_updated_on>
+        <type>List Control</type>
+        <update_guid>85f4ef3ba5c65110a9083e8499275371</update_guid>
+        <update_guid_history>85f4ef3ba5c65110a9083e8499275371:226125842</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-27 10:26:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list_control">sys_ui_list_control</sys_db_object>
+        <sys_id>289a3de6585c424c8e725f9272a992c9</sys_id>
+        <sys_metadata>37c4e37b87c6511012a8a68d0ebb35b3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_processtbl</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="ProcessTbl">46d0a77787c6511012a8a68d0ebb35ee</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_list_control_37c4e37b87c6511012a8a68d0ebb35b3</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_control_37c4e37b87c6511012a8a68d0ebb35b3">4df4ef3b87c6511012a8a68d0ebb3571</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-27 10:26:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

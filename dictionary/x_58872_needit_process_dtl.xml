@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Process Dtl" max_length="40" name="x_58872_needit_process_dtl" sizeclass="4" type="collection">
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" display="true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Process Group" max_length="32" name="process_group" reference="x_58872_needit_processtbl" reference_floats="true" type="reference"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" choice="2" choice_field="process_name" choice_table="x_58872_needit_process_dtl" label="Process Name" max_length="100" name="process_name" type="condition_string">
+            <choice>
+                <element inactive_on_update="false" label="Test 1" value="Test 1"/>
+                <element inactive_on_update="false" label="Test 2" value="Test 2"/>
+                <element inactive_on_update="false" label="Test 3" value="Test 3"/>
+            </choice>
+        </element>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" default="www.google.com" label="url" max_length="1024" name="url" type="url"/>
+        <index name="index">
+            <element name="process_group"/>
+        </index>
+    </element>
+</database>

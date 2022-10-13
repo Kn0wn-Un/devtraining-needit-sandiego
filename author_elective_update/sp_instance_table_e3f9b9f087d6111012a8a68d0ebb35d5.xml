@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table">
+    <sp_instance_table action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field/>
+        <field_list>process_name</field_list>
+        <filter table="x_58872_needit_process_dtl">process_group=7a536ff787c6511012a8a68d0ebb35c8^<item display_table="x_58872_needit_processtbl" display_value="Test 1" endquery="false" field="process_group" goto="false" newquery="false" operator="=" or="false" value="7a536ff787c6511012a8a68d0ebb35c8"/>
+        </filter>
+        <glyph/>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>2</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">7a17cc108752111012a8a68d0ebb3580</sp_column>
+        <sp_page/>
+        <sp_widget display_value="ProcessDataTbl">c0a3fda48756511012a8a68d0ebb3598</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-30 05:03:56</sys_created_on>
+        <sys_id>e3f9b9f087d6111012a8a68d0ebb35d5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Process Name</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sp_instance_table_e3f9b9f087d6111012a8a68d0ebb35d5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-30 05:08:43</sys_updated_on>
+        <table>x_58872_needit_process_dtl</table>
+        <title>Process Name</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"enable_filter": {
+		"value": "true",
+		"displayValue": "true"
+	}
+}]]></widget_parameters>
+    </sp_instance_table>
+    <sys_translated_text action="DELETE" query="documentkey=e3f9b9f087d6111012a8a68d0ebb35d5"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>55e092eb1b9d85107d9d2f8dee4bcbfa</instance_id>
+        <instance_name>dev124228</instance_name>
+        <name>sp_instance_table_e3f9b9f087d6111012a8a68d0ebb35d5</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_table"&gt;&lt;sp_instance_table action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;display_field/&gt;&lt;field_list&gt;process_name&lt;/field_list&gt;&lt;filter table="x_58872_needit_process_dtl"&gt;process_group=7a536ff787c6511012a8a68d0ebb35c8^&lt;item display_table="x_58872_needit_processtbl" display_value="Test 1" endquery="false" field="process_group" goto="false" newquery="false" operator="=" or="false" value="7a536ff787c6511012a8a68d0ebb35c8"/&gt;&lt;/filter&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;maximum_entries&gt;5&lt;/maximum_entries&gt;&lt;order&gt;2&lt;/order&gt;&lt;order_by/&gt;&lt;order_direction&gt;asc&lt;/order_direction&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;7a17cc108752111012a8a68d0ebb3580&lt;/sp_column&gt;&lt;sp_page/&gt;&lt;sp_widget display_value="ProcessDataTbl"&gt;c0a3fda48756511012a8a68d0ebb3598&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_table&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-09-30 05:03:56&lt;/sys_created_on&gt;&lt;sys_id&gt;e3f9b9f087d6111012a8a68d0ebb35d5&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Process Name&lt;/sys_name&gt;&lt;sys_package display_value="NeedIt" source="x_58872_needit"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="NeedIt"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_table_e3f9b9f087d6111012a8a68d0ebb35d5&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-09-30 05:08:43&lt;/sys_updated_on&gt;&lt;table&gt;x_58872_needit_process_dtl&lt;/table&gt;&lt;title&gt;Process Name&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"enable_filter": {
+		"value": "true",
+		"displayValue": "true"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_table&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=e3f9b9f087d6111012a8a68d0ebb35d5"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>525811913</payload_hash>
+        <record_name>Process Name</record_name>
+        <reverted_from/>
+        <source>e02f79ee87c6111012a8a68d0ebb3501</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-30 05:08:43</sys_created_on>
+        <sys_id>611b3d3487d6111012a8a68d0ebb355f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1838ccc00d40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-30 05:08:43</sys_updated_on>
+        <type>Instance with Table</type>
+        <update_guid>691b3d3406d6111015c98024523e665e</update_guid>
+        <update_guid_history>691b3d3406d6111015c98024523e665e:525811913,960b7934f2d61110a853252994a83d34:-1502621432,6bf9b9f0cbd611103038172662416cd6:1960169126</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Process Name">650ef5f487d6111012a8a68d0ebb35a1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-30 05:21:33</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_table">sp_instance_table</sys_db_object>
+        <sys_id>2ff2224465494adc9b98e82847c9cb44</sys_id>
+        <sys_metadata>e3f9b9f087d6111012a8a68d0ebb35d5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Process Name</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sp_instance_table_e3f9b9f087d6111012a8a68d0ebb35d5</sys_update_name>
+        <sys_update_version display_value="sp_instance_table_e3f9b9f087d6111012a8a68d0ebb35d5">611b3d3487d6111012a8a68d0ebb355f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-30 05:21:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

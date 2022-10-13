@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table">
+    <sp_instance_table action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <display_field/>
+        <field_list>process_name</field_list>
+        <filter/>
+        <glyph/>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>3</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">7a17cc108752111012a8a68d0ebb3580</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Data Table from Instance Definition">38058ff1cb11020000f8d856634c9c8c</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-29 10:09:51</sys_created_on>
+        <sys_id>b666bdec8756511012a8a68d0ebb3567</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Process Name</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sp_instance_table_b666bdec8756511012a8a68d0ebb3567</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-29 10:15:05</sys_updated_on>
+        <table>x_58872_needit_process_dtl</table>
+        <title>Process Name</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_table>
+    <sys_translated_text action="DELETE" query="documentkey=b666bdec8756511012a8a68d0ebb3567"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>55e092eb1b9d85107d9d2f8dee4bcbfa</instance_id>
+        <instance_name>dev124228</instance_name>
+        <name>sp_instance_table_b666bdec8756511012a8a68d0ebb3567</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table"><sp_instance_table action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><display_field/><field_list>process_name</field_list><filter/><glyph/><id/><maximum_entries>5</maximum_entries><order>3</order><order_by/><order_direction>asc</order_direction><roles/><short_description/><size>md</size><sp_column display_value="1">7a17cc108752111012a8a68d0ebb3580</sp_column><sp_page/><sp_widget display_value="Data Table from Instance Definition">38058ff1cb11020000f8d856634c9c8c</sp_widget><sys_class_name>sp_instance_table</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-29 10:09:51</sys_created_on><sys_id>b666bdec8756511012a8a68d0ebb3567</sys_id><sys_mod_count>4</sys_mod_count><sys_name>Process Name</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sp_instance_table_b666bdec8756511012a8a68d0ebb3567</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-29 10:15:05</sys_updated_on><table>x_58872_needit_process_dtl</table><title>Process Name</title><url/><widget_parameters/></sp_instance_table><sys_translated_text action="delete_multiple" query="documentkey=b666bdec8756511012a8a68d0ebb3567"/></record_update>]]></payload>
+        <payload_hash>1649947757</payload_hash>
+        <record_name>Process Name</record_name>
+        <reverted_from/>
+        <source>e02f79ee87c6111012a8a68d0ebb3501</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-29 10:15:05</sys_created_on>
+        <sys_id>eb9771608796511012a8a68d0ebb3577</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18388be21d10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-29 10:15:05</sys_updated_on>
+        <type>Instance with Table</type>
+        <update_guid>e3977160a9965110e741995d665a9277</update_guid>
+        <update_guid_history>e3977160a9965110e741995d665a9277:1649947757,aa577120459651101fd09e509596a242:-1050685906,78573d205696511069c97b26457f4a76:1649947757,c686fdecb856511049b372be51f8d00b:-1050685906,ba66bdeca5565110a0077edabe877868:-1478871589</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Process Name">8ca73d208796511012a8a68d0ebb3531</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-29 10:15:06</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_table">sp_instance_table</sys_db_object>
+        <sys_id>40f119564c8c4cf8af0ae4a89abc1040</sys_id>
+        <sys_metadata>b666bdec8756511012a8a68d0ebb3567</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Process Name</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sp_instance_table_b666bdec8756511012a8a68d0ebb3567</sys_update_name>
+        <sys_update_version display_value="sp_instance_table_b666bdec8756511012a8a68d0ebb3567">eb9771608796511012a8a68d0ebb3577</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-29 10:15:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

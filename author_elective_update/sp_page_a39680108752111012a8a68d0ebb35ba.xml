@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="DELETE">
+        <category>custom</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>ead_uc4</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>false</public>
+        <roles/>
+        <seo_script/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-28 07:22:53</sys_created_on>
+        <sys_id>a39680108752111012a8a68d0ebb35ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ead_uc4</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sp_page_a39680108752111012a8a68d0ebb35ba</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-28 07:22:53</sys_updated_on>
+        <title>EAD-UC4</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="DELETE" query="documentkey=a39680108752111012a8a68d0ebb35ba"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>55e092eb1b9d85107d9d2f8dee4bcbfa</instance_id>
+        <instance_name>dev124228</instance_name>
+        <name>sp_page_a39680108752111012a8a68d0ebb35ba</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page"><sp_page action="INSERT_OR_UPDATE"><category>custom</category><css/><draft>false</draft><dynamic_title_structure/><id>ead_uc4</id><internal>false</internal><omit_watcher>false</omit_watcher><public>false</public><roles/><seo_script/><short_description/><sys_class_name>sp_page</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-28 07:22:53</sys_created_on><sys_id>a39680108752111012a8a68d0ebb35ba</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ead_uc4</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sp_page_a39680108752111012a8a68d0ebb35ba</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-28 07:22:53</sys_updated_on><title>EAD-UC4</title><use_seo_script>false</use_seo_script></sp_page><sys_translated_text action="delete_multiple" query="documentkey=a39680108752111012a8a68d0ebb35ba"/></record_update>]]></payload>
+        <payload_hash>1444686733</payload_hash>
+        <record_name>ead_uc4</record_name>
+        <reverted_from/>
+        <source>e02f79ee87c6111012a8a68d0ebb3501</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-28 07:22:53</sys_created_on>
+        <sys_id>2f9680108752111012a8a68d0ebb35bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18382fa1fbc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-28 07:22:53</sys_updated_on>
+        <type>Page</type>
+        <update_guid>67968010fc5211107d8d4fc80c4e26bc</update_guid>
+        <update_guid_history>67968010fc5211107d8d4fc80c4e26bc:1444686733</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="ead_uc4">6d0ef5f487d6111012a8a68d0ebb35b2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-30 05:21:33</sys_created_on>
+        <sys_db_object display_value="" name="sp_page">sp_page</sys_db_object>
+        <sys_id>346c2f02f2e040f08528c63dfefbf100</sys_id>
+        <sys_metadata>a39680108752111012a8a68d0ebb35ba</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ead_uc4</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sp_page_a39680108752111012a8a68d0ebb35ba</sys_update_name>
+        <sys_update_version display_value="sp_page_a39680108752111012a8a68d0ebb35ba">2f9680108752111012a8a68d0ebb35bc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-30 05:21:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

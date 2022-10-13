@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related action="DELETE" sys_domain="global" table="x_58872_needit_needit" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="NeedIt - Default view" name="x_58872_needit_needit" related_list="NULL" sys_domain="global" view="Default view">7b45beab8786111012a8a68d0ebb3538</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-26 12:10:41</sys_created_on>
+            <sys_id>7745beab8786111012a8a68d0ebb3539</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-26 12:10:41</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>NeedIt - Default view</calculated_name>
+            <filter/>
+            <name>x_58872_needit_needit</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-26 12:10:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7b45beab8786111012a8a68d0ebb3538</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>NeedIt - Default view</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_related_x_58872_needit_needit_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-26 12:10:41</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>55e092eb1b9d85107d9d2f8dee4bcbfa</instance_id>
+        <instance_name>dev124228</instance_name>
+        <name>sys_ui_related_x_58872_needit_needit_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_related sys_domain="global" table="x_58872_needit_needit" version="2" view=""><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="NeedIt - Default view" name="x_58872_needit_needit" related_list="NULL" sys_domain="global" view="Default view">7b45beab8786111012a8a68d0ebb3538</list_id><order_by/><position>0</position><related_list/><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-26 12:10:41</sys_created_on><sys_id>7745beab8786111012a8a68d0ebb3539</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-26 12:10:41</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list action="INSERT_OR_UPDATE"><calculated_name>NeedIt - Default view</calculated_name><filter/><name>x_58872_needit_needit</name><order_by/><position/><related_list/><sys_class_name>sys_ui_related_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-26 12:10:41</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7b45beab8786111012a8a68d0ebb3538</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt - Default view</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_related_x_58872_needit_needit_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-26 12:10:41</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_related_list></sys_ui_related></record_update>]]></payload>
+        <payload_hash>1905723026</payload_hash>
+        <record_name>NeedIt</record_name>
+        <reverted_from/>
+        <source>e02f79ee87c6111012a8a68d0ebb3501</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-26 12:10:41</sys_created_on>
+        <sys_id>b345beab8786111012a8a68d0ebb353b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18379b4e5500000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-26 12:10:41</sys_updated_on>
+        <type>Related Lists</type>
+        <update_guid>7b45beabad8611108f4b192c3d68223a</update_guid>
+        <update_guid_history>7b45beabad8611108f4b192c3d68223a:1905723026,02233a2b9b861110371a1d6deb49d956:1701740583,80e2fee7e98611101864076bcd21ddb3:-733631599,df9172e735861110676c0c278888f7c9:1046189167,0c91fea70f8611104ca9227e7a6227cd:838014940,7c717a2765861110da5447306f5f092f:127809773</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-27 07:57:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_related_list">sys_ui_related_list</sys_db_object>
+        <sys_id>35e56f91fc654296b32959e1234807b1</sys_id>
+        <sys_metadata>7b45beab8786111012a8a68d0ebb3538</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt - Default view</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt">3cfe7de2870a111012a8a68d0ebb35a1</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_related_x_58872_needit_needit_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_related_x_58872_needit_needit_null">b345beab8786111012a8a68d0ebb353b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-27 07:57:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

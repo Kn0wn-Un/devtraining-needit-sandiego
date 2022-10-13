@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="process_name" table="x_58872_needit_process_dtl" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>process_name</element>
+            <name>x_58872_needit_process_dtl</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-28 08:34:54</sys_created_on>
+            <sys_id>da17d8108792111012a8a68d0ebb3588</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>process_name</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_choice_x_58872_needit_process_dtl_process_name</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-28 08:34:54</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>process_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Test 1</label>
+            <language>en</language>
+            <name>x_58872_needit_process_dtl</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-28 08:34:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9617d8108792111012a8a68d0ebb3588</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-28 08:34:54</sys_updated_on>
+            <value>Test 1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>process_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Test 2</label>
+            <language>en</language>
+            <name>x_58872_needit_process_dtl</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-28 08:34:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1217d8108792111012a8a68d0ebb358a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-28 08:34:54</sys_updated_on>
+            <value>Test 2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>process_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Test 3</label>
+            <language>en</language>
+            <name>x_58872_needit_process_dtl</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-28 08:34:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d21790908792111012a8a68d0ebb3592</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-28 08:34:54</sys_updated_on>
+            <value>Test 3</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
